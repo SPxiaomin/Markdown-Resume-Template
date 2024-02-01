@@ -6,13 +6,13 @@
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：27
 * 手 机：15900948714 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：gujunmin84@gmail.com
-* 专 业：湖南科技大学2018届信息安全专业、本科 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：资深Web前端/前端专家
+* 专 业：湖南科技大学2018届信息安全专业、本科 &emsp;&emsp; 岗 位：资深Web前端/前端专家
 
 ## 工作经历
 
 * 莉莉丝&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2021.3~至今&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 中台产品部门
-* 字节跳动&emsp;&emsp;&ensp;2019.4~2021.3&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 商业化部门
-* 饿了么&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2017.12~2019.4&emsp;&emsp;&emsp;&emsp; C端外卖平台
+* 字节跳动&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.4~2021.3&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 商业化部门
+* 饿了么&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2017.12~2019.4&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;C端外卖平台
 
 ## 自我介绍
 
@@ -120,7 +120,7 @@
          * 因此需要提供前端站点的方式进行使用和接入.
          * B端采用的是签名的方式进行鉴权，只有获取到sign的服务方可上传.
 
-5. Lilith公司私有源站「开发&维护」2021.3-至今
+5. Lilith公司私有源站「开发&维护, Nodejs&Golang」2021.3-至今
    * 背景&目标
      * 公司内部共有组件的私有化诉求.
      * 团队内部跨项目的代码共享.
