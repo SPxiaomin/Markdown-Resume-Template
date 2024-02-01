@@ -6,7 +6,7 @@
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：27
 * 手 机：15900948714 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：gujunmin84@gmail.com
-* 专 业：湖南科技大学信息安全专业 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：资深Web前端/前端专家
+* 专 业：湖南科技大学2018届信息安全专业、本科 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：资深Web前端/前端专家
 
 ## 工作经历
 
@@ -99,7 +99,7 @@
         * 对于Nodejs服务存在同样的问题，本身Nodejs更新迭代比较快，再加上此系统经过多人之手，代码略微显的可读性不强，维护成本增强.
         * 采用Nginx服务分流，搭建一套全新的Nodejs服务，对于老旧的业务根据ROI需求看是重新开发or继续在老项目上迭代.
 
-4. FAU静态资源服务「Golang」2023.3-至今
+4. FAU静态资源服务「Golang&go-zero」2023.3-至今
    * 背景&目标
      * IM/社区等C端用户都有上传静态资源的诉求.
      * B端内部后台也有相关的需求.
