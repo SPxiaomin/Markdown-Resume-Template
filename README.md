@@ -4,9 +4,9 @@
 
 ## 个人信息
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：27
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：29
 * 手 机：15900948714 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：gujunmin84@gmail.com
-* 专 业：湖南科技大学2018届信息安全专业、本科 &emsp;&emsp; 岗 位：资深Web前端/前端专家
+* 专 业：湖南科技大学2018届信息安全专业、本科 &emsp;&emsp; 岗 位：Web前端/NodeJS全栈
 
 ## 工作经历
 
