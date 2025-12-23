@@ -10,7 +10,7 @@
 
 ## 工作经历
 
-* 鹰角&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2024.4~至今&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 平台部门
+* 鹰角&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&ensp;2024.4~至今&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 平台部门
 * 莉莉丝&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2021.3~2024.1&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 中台产品部门
 * 字节跳动&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.4~2021.3&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 商业化部门
 * 饿了么&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2017.12~2019.4&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;C端外卖平台
