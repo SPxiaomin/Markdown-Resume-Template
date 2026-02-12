@@ -26,8 +26,8 @@ and delivering stable, scalable systems in production.
 
 ## Technical Skills
 
-- **Web3**: RainbowKit, Wagmi/Veim, The Graph
-- **Frontend**: React, TypeScript, Umi, Qiankun, Micro-Frontend
+- **Web3**: RainbowKit, Wagmi/Veim, The Graph, Solidity/Rust
+- **Frontend**: React/Next.js, TypeScript, Umi, Qiankun, Micro-Frontend
 - **Backend**: Node.js, NestJS, Golang (go-zero)
 - **Middleware**: Redis Cluster, Kafka, RocketMQ
 - **Databases**: MySQL (Sharding, Year-based Partitioning)
