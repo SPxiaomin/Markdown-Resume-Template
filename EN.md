@@ -20,10 +20,13 @@ with solid understanding of **Redis Cluster, Kafka / RocketMQ, database sharding
 Proven **system owner** with experience leading **small teams (3–5 engineers)**, driving architecture decisions,  
 and delivering stable, scalable systems in production.
 
+Familiar with React Wallet Integration / Smart Contract Interaction, using Indexers to make on-chain data queryable for a high-performance UI.
+
 ---
 
 ## Technical Skills
 
+- **Web3**: RainbowKit, Wagmi/Veim, The Graph
 - **Frontend**: React, TypeScript, Umi, Qiankun, Micro-Frontend
 - **Backend**: Node.js, NestJS, Golang (go-zero)
 - **Middleware**: Redis Cluster, Kafka, RocketMQ
