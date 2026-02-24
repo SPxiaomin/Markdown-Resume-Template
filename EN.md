@@ -46,7 +46,7 @@ and delivering stable, scalable systems in production.
 - **Scale**:
   - Up to **1M users per activity**
   - **Tens of millions of lottery records**
-  - Peak traffic: **130K QPS (draw)** / **500K QPS (address)**
+  - Peak traffic: **130K QPS (draw)** / **500K QPS (info)**
 - **Key Design**:
   - Redis Cluster (16 × 16GB), **1024 virtual shards per activity** to eliminate hot keys
   - Kafka for reliable message delivery; Redis ZSet for pending state tracking and idempotent retries
@@ -61,6 +61,10 @@ and delivering stable, scalable systems in production.
 - Implemented async retry mechanism via RocketMQ  
   (10 min / 6 h / 12 h / 24 h)
 - CD-Key redemption built on **pure DB + year-based 20-shard design** for high throughput
+
+#### Others
+
+- official websites / h5 landing pages ...
 
 ---
 
