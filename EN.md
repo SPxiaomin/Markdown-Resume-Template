@@ -62,7 +62,7 @@ and delivering stable, scalable systems in production.
   (10 min / 6 h / 12 h / 24 h)
 - CD-Key redemption built on **pure DB + year-based 20-shard design** for high throughput
 
-#### Official websites / h5 landing pages
+#### Official websites / H5 landing pages
 
 - px -> rem response layout
 - Basic web animation
