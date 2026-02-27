@@ -15,7 +15,7 @@ Senior Frontend & Node.js Full-Stack Engineer with **7+ years of experience** bu
 **large-scale, high-concurrency platform systems from 0 to 1**.
 
 Hands-on experience in **high-traffic event systems, lottery & reward distribution, customer service platforms**,  
-with solid understanding of **Redis Cluster, Kafka / RocketMQ, database sharding, idempotency, and eventual consistency**.
+with solid understanding of **React/Typescript, Redis Cluster, Kafka / RocketMQ, database sharding, idempotency, and eventual consistency**.
 
 Comfortable with React Wallet Integration / Smart Contract Interaction, using Indexers to make on-chain data queryable for a high-performance UI.
 
