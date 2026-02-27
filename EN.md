@@ -126,8 +126,3 @@ and delivering stable, scalable systems in production.
 - Comfortable owning systems end-to-end: design, implementation, and long-term evolution
 - Proven ability to lead small teams and collaborate across functions
 
----
-
-## Open Source
-
-- GitHub: https://github.com/SPxiaomin
