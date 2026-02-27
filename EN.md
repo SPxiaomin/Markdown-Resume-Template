@@ -68,7 +68,7 @@ and delivering stable, scalable systems in production.
 - Basic web animation
 - Performance optimization
   - e.g. using devtool profile for debugging OOM
-  - e.g. animating box-shadow directly
+  - e.g. animating box-shadow directly「CPU」 -> pseudo-element opacity「GPU」
 
 ---
 
