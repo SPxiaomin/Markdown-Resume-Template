@@ -67,8 +67,8 @@ and delivering stable, scalable systems in production.
 - px -> rem response layout
 - Basic web animation
 - Performance optimization
--   e.g. using devtool profile for debugging OOM
--   e.g. animating box-shadow directly
+  - e.g. using devtool profile for debugging OOM
+  - e.g. animating box-shadow directly
 
 ---
 
